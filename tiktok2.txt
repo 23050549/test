@@ -14,6 +14,11 @@
 0.0.0.0	47.252.102.50
 0.0.0.0	47.252.50.101
 0.0.0.0	47.252.50.157
+0.0.0.0 pull-cmaf-f16-va01.tiktokcdn-eu.com
+0.0.0.0 pull-cmaf-f5-sg01.tiktokcdn.com
+0.0.0.0 v39-dynamic-cgk7a.tiktokcdn.com
+0.0.0.0 pull-flv-f65-va01.tiktokcdn.com
+0.0.0.0 pull-flv-o1-sg01.tiktokcdn.com
 0.0.0.0	api.tiktokv.com
 0.0.0.0	api21-h2.tiktokv.com
 0.0.0.0	api-h2.tiktokv.com
