@@ -19,6 +19,15 @@
 0.0.0.0 v39-dynamic-cgk7a.tiktokcdn.com
 0.0.0.0 pull-flv-f65-va01.tiktokcdn.com
 0.0.0.0 pull-flv-o1-sg01.tiktokcdn.com
+0.0.0.0 pull-lls-l1-va01.tiktokcdn.com
+0.0.0.0 push-rtmp-l16-sg01.tiktokcdn.com
+0.0.0.0 pull-flv-o11-sg01.tiktokcdn.com
+0.0.0.0 pull-flv-f58-tt04.tiktokcdn-eu.com
+0.0.0.0 pull-flv-q1-sg01.tiktokcdn.com
+0.0.0.0 push-rtmp-f5-tt04.tiktokcdn-eu.com
+0.0.0.0 e673.dsce9.akamaiedge.net
+0.0.0.0 pull-flv-w11-sg01.tiktokcdn.com
+0.0.0.0 pull-flv-o77-sg01.tiktokcdn.com
 0.0.0.0	api.tiktokv.com
 0.0.0.0	api21-h2.tiktokv.com
 0.0.0.0	api-h2.tiktokv.com
