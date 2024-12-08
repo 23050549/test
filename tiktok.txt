@@ -11,3 +11,4 @@
 ||tiktokvideo.com
 ||ib.tiktokv.com
 ||api.tiktokv.com
+0.0.0.0 pull-flv-q1-sg01.tiktokcdn.com
