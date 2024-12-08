@@ -1,0 +1,10 @@
+||tiktokcdn.com^
+||tiktokcdn-eu.com^
+||ttlivecdn.com^
+||tiktok.com^
+||tiktokv.com^
+||ttwstatic.com^
+||byteoversea.com^
+||mon.tiktokv.com^
+||akamaitechnologies.com^
+||bytedance.com^
