@@ -8,3 +8,6 @@
 ||mon.tiktokv.com^
 ||akamaitechnologies.com^
 ||bytedance.com^
+||tiktokvideo.com
+||ib.tiktokv.com
+||api.tiktokv.com
