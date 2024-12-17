@@ -32,8 +32,12 @@
 ||facebook.com^
 0.0.0.0 traffic-nts-ip-assoc.xy.fbcdn.net
 ||xy.fbcdn.net^
-
-
+0.0.0.0 lookaside-fallback.facebook.com
+0.0.0.0 traffic-nts-ip-assoc.xy.fbcdn.net
+0.0.0.0 traffic-nts-ip-assoc.xz.fbcdn.net
+||xy.fbcdn.net^
+||xz.fbcdn.net^
+0.0.0.0 chat-e2ee-mini-fallback.facebook.com
 
 
 0.0.0.0 www.facebook.com--secure-id-12567747644457.shahed.cc
