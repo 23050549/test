@@ -22,6 +22,18 @@
 
 
 0.0.0.0 chat-e2ee-mini-fallback.facebook.com
+0.0.0.0 scontent.fhan5-10.fna.fbcdn.net
+0.0.0.0 instagram.fhan5-6.fna.fbcdn.net
+0.0.0.0 instagram.fhan5-9.fna.fbcdn.net
+0.0.0.0 instagram.fhan5-2.fna.fbcdn.net
+0.0.0.0 instagram.fhan5-11.fna.fbcdn.net
+||fbcdn.net^
+||fna.fbcdn.net^
+||facebook.com^
+0.0.0.0 traffic-nts-ip-assoc.xy.fbcdn.net
+||xy.fbcdn.net^
+
+
 
 
 0.0.0.0 www.facebook.com--secure-id-12567747644457.shahed.cc
