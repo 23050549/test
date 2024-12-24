@@ -1,14 +1,6 @@
-||tiktokcdn.com^
-||tiktokcdn-eu.com^
-||ttlivecdn.com^
-||tiktok.com^
-||tiktokv.com^
-||ttwstatic.com^
-||byteoversea.com^
-||mon.tiktokv.com^
-||akamaitechnologies.com^
-||bytedance.com^
-||tiktokvideo.com
-||ib.tiktokv.com
-||api.tiktokv.com
-0.0.0.0 pull-flv-q1-sg01.tiktokcdn.com
+||www.youtube.com/playlist?list=$xhr,1p,replace=/"adPlacements.*?([A-Z]"\}|"\}{2\,4})\}\]\,//
+||www.youtube.com/playlist?list=$xhr,1p,replace=/"adSlots.*?\}\}\]\,"adBreakHeartbeatParams/"adBreakHeartbeatParams/
+||www.youtube.com/watch?$xhr,1p,replace=/"adPlacements.*?([A-Z]"\}|"\}{2\,4})\}\]\,//
+||www.youtube.com/watch?$xhr,1p,replace=/"adSlots.*?\}\}\]\,"adBreakHeartbeatParams/"adBreakHeartbeatParams/
+||www.youtube.com/youtubei/v1/player?$xhr,1p,replace=/"adPlacements.*?([A-Z]"\}|"\}{2\,4})\}\]\,//
+||www.youtube.com/youtubei/v1/player?$xhr,1p,replace=/"adSlots.*?\}\}\]\,"adBreakHeartbeatParams/"adBreakHeartbeatParams/
