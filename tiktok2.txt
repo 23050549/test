@@ -14,6 +14,20 @@
 0.0.0.0	47.252.102.50
 0.0.0.0	47.252.50.101
 0.0.0.0	47.252.50.157
+0.0.0.0 71.18.253.70
+0.0.0.0 71.18.82.231
+0.0.0.0 34.117.67.69
+0.0.0.0 34.95.101.116
+0.0.0.0 direct.quic-core-proxy-gcpsg-v3.gcpsg.byteglb.com
+0.0.0.0 direct.quic-webcast-proxy-gcpsg-v3.gcpsg.byteglb.com
+0.0.0.0 webcast22-normal-c-alisg.tiktokv.com
+0.0.0.0 34.36.80.120
+0.0.0.0 api22-normal-c-alisg.tiktokv.com
+0.0.0.0 direct.quic-proxy-gcpsg-v3.gcpsg.byteglb.com
+0.0.0.0 34.36.65.236
+0.0.0.0 156.59.94.22
+0.0.0.0 156.59.132.139
+
 0.0.0.0 v9.byteicdn.com.ecdnx.com
 0.0.0.0 zbdhwvn1.v.ecdnx.com
 0.0.0.0 116.103.203.251
